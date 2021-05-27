@@ -1,0 +1,195 @@
+[
+	{
+		"id": 0,
+		"users": {
+			"0": {
+				"id": 482682787,
+				"uid": 0,
+				"level": 3
+			},
+			"8": {
+				"id": 270327960,
+				"uid": 8,
+				"level": 1
+			},
+			"135": {
+				"id": 531561667,
+				"uid": 135,
+				"level": 1
+			},
+			"185": {
+				"id": 241412034,
+				"uid": 185,
+				"level": 1
+			}
+		},
+		"name": "🎲OnionTeam🎲",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🎲",
+		"peoples": 4,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 135,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 1,
+		"users": {
+			"2": {
+				"id": 516233741,
+				"uid": 2,
+				"level": 1
+			},
+			"22": {
+				"id": 280221984,
+				"uid": 22,
+				"level": 3
+			},
+			"56": {
+				"id": 624402236,
+				"uid": 56,
+				"level": 1
+			}
+		},
+		"name": "_URAL_BEAR_",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🛡",
+		"peoples": 3,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 22,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 2,
+		"users": {
+			"28": {
+				"id": 392003380,
+				"uid": 28,
+				"level": 3
+			}
+		},
+		"name": "Helpers",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🛡",
+		"peoples": 1,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 28,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 3,
+		"users": {
+			"172": {
+				"id": 393854009,
+				"uid": 172,
+				"level": 3
+			}
+		},
+		"name": "клан клеш рояль",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🛡",
+		"peoples": 1,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 172,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 4,
+		"users": {
+			"47": {
+				"id": 582649781,
+				"uid": 47,
+				"level": 1
+			},
+			"134": {
+				"id": 591883624,
+				"uid": 134,
+				"level": 3
+			},
+			"206": {
+				"id": 527752400,
+				"uid": 206,
+				"level": 1
+			},
+			"211": {
+				"id": 439506026,
+				"uid": 211,
+				"level": 2
+			},
+			"218": {
+				"id": 522801871,
+				"uid": 218,
+				"level": 1
+			}
+		},
+		"name": "༒︎|𝙳𝚎𝚝𝚂𝚊𝚍|༒︎",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🤡",
+		"peoples": 5,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 134,
+		"open": true,
+		"lvl": 3
+	},
+	{
+		"id": 5,
+		"users": {},
+		"name": "Kodinoob",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🛡",
+		"peoples": 0,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 47,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 6,
+		"users": {},
+		"name": "!сбд",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🛡",
+		"peoples": 0,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 135,
+		"open": true,
+		"lvl": 0
+	},
+	{
+		"id": 7,
+		"users": {
+			"174": {
+				"id": 329904480,
+				"uid": 174,
+				"level": 3
+			}
+		},
+		"name": "АлкоЗавры",
+		"balance": 0,
+		"rating": 0,
+		"smile": "🍺",
+		"peoples": 1,
+		"wons": 1,
+		"los": 0,
+		"clanowner": 174,
+		"open": true,
+		"lvl": 3
+	}
+]
